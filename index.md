@@ -48,7 +48,8 @@ trees)</li>
         <li>Generalized off-policy learning</li>
         <li>Counterfactual data-fusion</li>
       </ul>
-      </tr>
+  </td>
+</tr>
   <tr>
     <td colspan="3">In this module, we discuss some of the fundamental connections between these fields, and explain how RL can be made more robust and general through causal machinery. we discuss the problems or generalized off-policy learning, where interventions should be performed, counterfactual randomization, and data- fusion. Overall, we show how counterfactual reasoning can be embedded in RL systems to make decision-making more personalized, efficient, and robust.
     </td>
